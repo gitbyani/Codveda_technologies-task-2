@@ -11,16 +11,16 @@ Analyze relationships between variables
 Identify correlations among numerical features
 
 Techniques Used
-Histograms
-Boxplots
-Scatter Plots
-Correlation Matrix
+Histograms,
+Boxplots,
+Scatter Plots,
+Correlation Matrix,
 Summary Statistics
 
 Tools Used
-Python
-Pandas
-Matplotlib
+Python,
+Pandas,
+Matplotlib,
 Seaborn
 
 Outcome
